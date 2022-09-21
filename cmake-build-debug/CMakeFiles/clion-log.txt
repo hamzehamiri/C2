@@ -1,0 +1,4 @@
+/opt/IDE/clion-2022.2.3/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/opt/IDE/clion-2022.2.3/bin/ninja/linux/ninja -DCMAKE_TOOLCHAIN_FILE=/opt/Tools/vcpkg/scripts/buildsystems/vcpkg.cmake -G Ninja -S /opt/SourceCode/C++/C2 -B /opt/SourceCode/C++/C2/cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /opt/SourceCode/C++/C2/cmake-build-debug
